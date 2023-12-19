@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>preview_max.jpg</file>
+        <file>preview_min.jpg</file>
+        <file>war_yan_a_skin.x</file>
+        <file>war_yan_b_skin.x</file>
+        <file>icon_exe.ico</file>
+        <file>icon_max.png</file>
+        <file>icon_add_1.png</file>
+        <file>icon_add_2.png</file>
+        <file>icon_sub_1.png</file>
+        <file>icon_sub_2.png</file>
+        <file>img_patch.png</file>
+    </qresource>
+</RCC>
